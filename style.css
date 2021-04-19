@@ -1,0 +1,43 @@
+
+.main{
+    background-color:white;
+    
+}
+
+.imagen{
+	width:900px;
+	height:550px;
+	
+}
+
+ .texto{
+	 text-align:justify;
+	 width:900px;
+	 height:950px;
+	 
+ }
+ 
+ .fila1columna1{
+			 background-color:black;
+			 padding: 10px;
+			 color:white;
+			 //color es para la letra
+			}
+			
+.fila2columna1{
+			background-color:;
+			padding: 10px;
+			color:white;
+			 
+			}
+			
+.fila3columna1{
+			background-color:;
+			padding: 10px;
+			color:white;
+			 
+			}
+			
+			
+ 
+			
